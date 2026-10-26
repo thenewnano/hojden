@@ -1,0 +1,8 @@
+.venv/
+.env
+export_private/
+.sp_session
+build-actions.log
+build.json
+site.json
+__pycache__/
